@@ -138,7 +138,7 @@ h5 {
         overflow-y: scroll;
     }
     .main-content-lg-xl {
-        display: none;
+        /*display: none;*/
     }
     .container {
         display: block;
